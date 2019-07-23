@@ -6,6 +6,7 @@ HTML {
 }
 h1 {
   color: white;
+  font-weight: 300;
 }
 .discover {
   font-weight: normal;
@@ -19,5 +20,10 @@ a {
   color: aquamarine;
 }
 .guide {
+  font-weight: 300;
+}
+h3 {
+  color: gray;
+  font-size: 21px;
   font-weight: 300;
 }
